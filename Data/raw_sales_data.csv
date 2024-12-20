@@ -1,0 +1,6 @@
+ProductID,Price,Region,ProductType,Sales,Month
+101,150.0,North,Premium,1200.0,January
+102,200.0,South,Mid-Range,950.0,February
+103,,,Budget,600.0,March
+104,350.0,East,Premium,,April
+105,400.0,West,Mid-Range,1300.0,May
